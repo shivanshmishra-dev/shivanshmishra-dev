@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student  
 📊 Aspiring Data Analyst  
-🐍 Python | SQL  
+🐍 Python | SQL |Numpy | Pandas  
 🚀 Building toward Data Science and AI/ML Engineering
 
 ## Currently Learning
