@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shivansh Mishra 👋
 
-<!--
-**shivanshmishra-dev/shivanshmishra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+📊 Aspiring Data Analyst  
+🐍 Python | SQL  
+🚀 Building toward Data Science and AI/ML Engineering
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Data Analytics
+- Python for Data Analysis
+- Statistics
+- Git & GitHub
+
+## My Goal
+
+To build strong foundations in Data Analytics and gradually grow toward Data Science and AI/ML Engineering.
+
+## Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/shivansh-mishra-26925a326?utm_source=share_via&utm_content=profile&utm_medium=member_android
